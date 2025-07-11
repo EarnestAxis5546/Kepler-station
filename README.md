@@ -36,19 +36,19 @@ This project is under the **SS14 Contributor License Agreement (CLA)** and inher
 
 ## 📎 Links
 
-- Official Discord: [discord.gg/yourserver](https://discord.gg/wsQD9NzEcn)
+- Official Discord: [discord.gg/keplerstation](https://discord.gg/wsQD9NzEcn)
 - Wiki (WIP): `Coming soon`
 - Original SS14 repo: [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 
 > _"Kepler is cold, lonely… and full of stories."_  
-> — Server tagline
+> — KS
 
 
 ## Building
 
 1. Clone this repo:
 ```shell
-git clone https://github.com/space-wizards/space-station-14.git
+git clone https://github.com/EarnestAxis5546/Kepler-station.git
 ```
 2. Go to the project folder and run `RUN_THIS.py` to initialize the submodules and load the engine:
 ```shell
