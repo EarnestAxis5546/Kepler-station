@@ -19,14 +19,6 @@ We welcome contributions from:
 - Mappers  
 - Junior coders (C#/YAML)  
 
-To get started:
-1. Fork this repo
-2. Create a feature branch
-3. Submit a Pull Request
-4. Follow code style conventions where possible
-
-For major contributions, contact the maintainer via Discord or open an issue.
-
 ---
 
 ## 📋 License
