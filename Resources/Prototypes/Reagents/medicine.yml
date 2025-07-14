@@ -1427,7 +1427,7 @@
         amount: -3.0
 
 - type: reagent
-  id: necrotherin
+  id: Necrotherin
   name: reagent-name-necrotherin
   group: Medicine
   desc: reagent-desc-necrotherin
