@@ -33,7 +33,7 @@ rev-briefing = Help your head revolutionaries get rid of every head to take over
 
 ## General
 
-rev-title = Revolutionaries
+rev-title = Revolutionaries [MRP+]
 rev-description = Revolutionaries are among us.
 
 rev-not-enough-ready-players = Not enough players readied up for the game. There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start a Revolution.
