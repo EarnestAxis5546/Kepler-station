@@ -150,3 +150,6 @@ reagent-desc-haloperidol = Removes most stimulating and hallucinogenic drugs. Re
 
 reagent-name-necrotherin = necrotherin
 reagent-desc-necrotherin = A specialized cryochemical. Rapidly break down toxins within body, effective on both living and deceased patients.
+
+reagent-name-cryotessarin = cryotessarin
+reagent-desc-cryotessarin = A cryogenic compound designes to rapidly restore heavily damaged tissue, effective on both living and deceased bodies.

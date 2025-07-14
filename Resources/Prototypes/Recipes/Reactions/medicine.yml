@@ -677,3 +677,16 @@
     Necrotherin: 5
     Water: 1
     Fiber: 4
+
+- type: reaction
+  id: Cryotessarin
+  impact: Medium
+  reactants:
+    Cryoxadone:
+      amount: 2
+    Kelotane:
+      amount: 1
+    Copper:
+      amount: 0.5
+    Bicaridine:
+      amount: 2

@@ -1449,3 +1449,24 @@
           types:
           Poison: -8
           Radiation: -5
+
+- type: reagent
+  id: Cryotessarin
+  name: reagent-name-cryotessarin
+  group: Medicine
+  desc: reagent-desc-cryotessarin
+  physicalDesc: reagent-physical-desc-cloudy
+  flavor: medicine
+  color: "#7ED6FF"
+  worksOnTheDead: true
+  metabolism:
+    Medicine:
+      effects:
+      - !type:HealthChange
+        conditions:
+        - !type:Temperature
+          max: 213.0
+        damage:
+          Brute: -6
+          Burn: -4
+          Blunt: -2
