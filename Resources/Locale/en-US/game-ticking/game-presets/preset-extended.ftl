@@ -1,2 +1,2 @@
-extended-title = Extended [HRP]
+extended-title = Extended
 extended-description = A calm experience. Admin intervention required.

@@ -8,7 +8,7 @@ objective-issuer-unknown = Unknown
 
 # Shown at the end of a round of Traitor
 
-traitor-title = Traitor [MRP+]
+traitor-title = Traitor
 traitor-description = There are traitors among us...
 traitor-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Traitor.
 traitor-no-one-ready = No players readied up! Can't start Traitor.

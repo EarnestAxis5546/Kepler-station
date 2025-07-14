@@ -35,7 +35,7 @@ survivor-round-end-alive-on-shuttle-count =
 
 objective-issuer-swf = [color=turquoise]The Space Wizards Federation[/color]
 
-wizard-title = Wizard [MRP]
+wizard-title = Wizard
 wizard-description = There's a Wizard on the station! You never know what they might do.
 
 roles-antag-wizard-name = Wizard
