@@ -662,3 +662,18 @@
       amount: 1
   products:
     Haloperidol: 5
+
+- type: reaction
+  id: Necrotherin 
+  impact: Medium
+  reactants:
+    Stellibinin:
+      amount: 5
+    Cryoxadone:
+      amount: 3
+    Haloperidol:
+      amount: 2
+  products:
+    Necrotherin: 5
+    Water: 1
+    Fiber: 4

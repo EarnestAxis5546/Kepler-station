@@ -1425,3 +1425,27 @@
       - !type:AdjustReagent
         reagent: MindbreakerToxin
         amount: -3.0
+
+- type: reagent
+  id: necrotherin
+  name: reagent-name-necrotherin
+  group: Medicine
+  desc: reagent-desc-necrotherin
+  physicalDesc: reagent-physical-desc-murky
+  flavor: medicine
+  color: "#A259FF"
+  worksOnTheDead: true
+  metabolism:
+    Medicine:
+      effects:
+      - !type:HealthChange
+        conditions:
+        - !type:Temperature
+          max: 213.0
+        damage:
+          groups:
+            Brute: 4
+            Genetic: 2
+          types:
+          Poison: -8
+          Radiation: -5
