@@ -27,6 +27,7 @@
     specialDigestible:
       tags:
       - Trash
+      - ClothMade
     isSpecialDigestibleExclusive: false
 
 - type: entity
