@@ -41,7 +41,7 @@
         conditions:
         - !type:OrganType
           type: Moth
-        - !type:SatiateHunger
+      - !type:SatiateHunger
         conditions:
         - !type:OrganType
           type: Vox
