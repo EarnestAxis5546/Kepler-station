@@ -9,7 +9,7 @@
       time: 18000 #5 hrs
     - !type:RoleTimeRequirement
       role: JobSalvageSpecialist
-      time: 9000 #2.5 hrs
+      time: 12000 #2.5 hrs
     - !type:DepartmentTimeRequirement
       department: Cargo
       time: 36000 #10 hours
